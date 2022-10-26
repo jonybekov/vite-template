@@ -1,3 +1,5 @@
 export function HomePage() {
-  return <div>Home Page</div>;
+  return (
+    <div className="container mx-auto text-20">Welcome to Vite Template</div>
+  );
 }

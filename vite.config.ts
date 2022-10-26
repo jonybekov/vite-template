@@ -4,7 +4,7 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
-import Unocss from "unocss/vite";
+import Unocss from "@unocss/vite";
 import presetUno from "@unocss/preset-uno";
 
 // https://vitejs.dev/config/
