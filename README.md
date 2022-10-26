@@ -1,6 +1,10 @@
-# vite-template
+# Vite Template
 ⚡Vite template with opinionated folder structure
 
+# Features
+- Vitest & RTL for unit testing
+- UnoCSS - Atomic css library for styling
+- React Router v6+ for routing
 
 # Project structure 🏗
 
