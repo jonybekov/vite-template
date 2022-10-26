@@ -1,4 +1,4 @@
-# Vite Template
+# React Typescript Vite Template
 ⚡Vite template with opinionated folder structure
 
 # Features
