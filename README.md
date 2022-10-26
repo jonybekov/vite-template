@@ -6,6 +6,13 @@
 - UnoCSS - Atomic css library for styling
 - React Router v6+ for routing
 
+# How to scaffold
+Replace ``my-app`` with the name you want. Or put omit it to copy to current directory
+
+```
+npx degit jonybekov/vite-template my-app
+```
+
 # Project structure 🏗
 
 The project structure follows the idea from https://github.com/oldboyxx/jira_clone
